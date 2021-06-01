@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://shaikhfaruk.github.io/csb-ggini/static/css/main.25e92b8a.chunk.css",
+    "main.js": "https://shaikhfaruk.github.io/csb-ggini/static/js/main.dd965738.chunk.js",
+    "main.js.map": "https://shaikhfaruk.github.io/csb-ggini/static/js/main.dd965738.chunk.js.map",
+    "runtime-main.js": "https://shaikhfaruk.github.io/csb-ggini/static/js/runtime-main.1a0aa82d.js",
+    "runtime-main.js.map": "https://shaikhfaruk.github.io/csb-ggini/static/js/runtime-main.1a0aa82d.js.map",
+    "static/js/2.4c0546d6.chunk.js": "https://shaikhfaruk.github.io/csb-ggini/static/js/2.4c0546d6.chunk.js",
+    "static/js/2.4c0546d6.chunk.js.map": "https://shaikhfaruk.github.io/csb-ggini/static/js/2.4c0546d6.chunk.js.map",
+    "index.html": "https://shaikhfaruk.github.io/csb-ggini/index.html",
+    "static/css/main.25e92b8a.chunk.css.map": "https://shaikhfaruk.github.io/csb-ggini/static/css/main.25e92b8a.chunk.css.map",
+    "static/js/2.4c0546d6.chunk.js.LICENSE.txt": "https://shaikhfaruk.github.io/csb-ggini/static/js/2.4c0546d6.chunk.js.LICENSE.txt",
+    "static/media/doremon.e5932a9b.png": "https://shaikhfaruk.github.io/csb-ggini/static/media/doremon.e5932a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a0aa82d.js",
+    "static/js/2.4c0546d6.chunk.js",
+    "static/css/main.25e92b8a.chunk.css",
+    "static/js/main.dd965738.chunk.js"
+  ]
+}
